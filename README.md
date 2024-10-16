@@ -12,7 +12,7 @@ Use of a Random Forest model for image classification.
 Prediction of sky image classes with visual outputs to verify model accuracy.
 Achieved 96% accuracy on the test set.
 
-Confusion matrix :
+**Confusion matrix :**
 
 ![output](https://github.com/user-attachments/assets/459153e0-743b-4e91-8994-9c5fc5b80752)
 
@@ -28,7 +28,7 @@ Ensure you have the following packages installed:
 
 -NumPy ( for reshapping the images ) 
 
--Matplotlib (optional, for visualizing data)
+-Matplotlib ( for visualizing data)
 
 **How to Use:**
 Clone the repository and navigate to the notebook file.
